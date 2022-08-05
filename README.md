@@ -1,1 +1,1 @@
-# Cuộc thi AI Tempo Run của trường ĐH CNTT
+# Cuộc thi AI Tempo Run được tổ chức tại UIT
